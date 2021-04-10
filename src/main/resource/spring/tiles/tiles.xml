@@ -24,5 +24,11 @@
         <put-attribute name="footer" value="/WEB-INF/view/template/defaultFooter.jsp" />
         <put-attribute name="content" value="/WEB-INF/view/freeBoard/freeBoardDetail.jsp" />
     </definition>  
+    <definition name="freeBoardModify" extends="mainTemplate">
+        <put-attribute name="header" value="/WEB-INF/view/template/defaultHeader.jsp" />
+        <put-attribute name="menu" value="/WEB-INF/view/template/defaultMenu.jsp" />
+        <put-attribute name="footer" value="/WEB-INF/view/template/defaultFooter.jsp" />
+        <put-attribute name="content" value="/WEB-INF/view/freeBoard/freeBoardModify.jsp" />
+    </definition>  
     
 </tiles-definitions>
