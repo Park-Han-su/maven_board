@@ -23,6 +23,7 @@ public class FreeBoardController {
 		ModelAndView mav = new ModelAndView();
 		
 		//다시 하는 테스트 
+		//다시 하는 테스트222
 		
 		List list = freeBoardService.freeBoardList();
 //		List list = freeBoardService.freeBoardList2();
