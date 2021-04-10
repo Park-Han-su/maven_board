@@ -23,6 +23,8 @@ public class FreeBoardController {
 		ModelAndView mav = new ModelAndView();
 		
 		//push test
+		//pull test
+		//pull test2
 		
 		List list = freeBoardService.freeBoardList();
 //		List list = freeBoardService.freeBoardList2();
