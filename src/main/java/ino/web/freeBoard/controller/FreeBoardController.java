@@ -24,6 +24,7 @@ public class FreeBoardController {
 		
 		//push test
 		//pull test
+		//pull test2
 		
 		List list = freeBoardService.freeBoardList();
 //		List list = freeBoardService.freeBoardList2();
