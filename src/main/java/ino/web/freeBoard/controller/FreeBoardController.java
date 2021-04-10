@@ -22,7 +22,12 @@ public class FreeBoardController {
 	public ModelAndView main(HttpServletRequest request){
 		ModelAndView mav = new ModelAndView();
 		
+
 		// mac book push test!!!
+
+		// pull test!!
+		//window to commit
+
 		
 		List list = freeBoardService.freeBoardList();
 //		List list = freeBoardService.freeBoardList2();
