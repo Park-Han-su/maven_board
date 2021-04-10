@@ -26,6 +26,8 @@ public class FreeBoardController {
 		//pull test
 		//pull test2
 		
+		//지금 맥북에서 올리는거 머지 테스트 합니다
+		
 		List list = freeBoardService.freeBoardList();
 //		List list = freeBoardService.freeBoardList2();
 		
