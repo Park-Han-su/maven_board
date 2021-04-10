@@ -22,9 +22,7 @@ public class FreeBoardController {
 	public ModelAndView main(HttpServletRequest request){
 		ModelAndView mav = new ModelAndView();
 		
-		//push test
-		//pull test
-		//pull test2
+		//다시 하는 테스트 
 		
 		List list = freeBoardService.freeBoardList();
 //		List list = freeBoardService.freeBoardList2();
